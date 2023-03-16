@@ -1,5 +1,5 @@
 # compactor_pfam_rfam
-A python script, 2 under-the-hood bash scripts, and a Sherlock sbatch to run Rfam and Pfam on Adam Gudys's compactor tabular output, then to merge the best Rfam and Pfam hit for each compactor.
+A python script, 2 bash scripts, and a Sherlock sbatch to run Rfam and Pfam on Adam Gudys's compactor tabular output, then to report the best Rfam and Pfam hits for each compactor in a new table.
 
 
 
