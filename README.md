@@ -6,4 +6,4 @@ A python script, 2 under-the-hood bash scripts, and a Sherlock sbatch to run Rfa
 The best Rfam and Pfam hits are reported by e-value in Rfam and full sequence e-value in Pfam. 
 A compactor is selected for Pfam or Rfam alignment if exact_support > 0. 
 
-The user needs only to specify the compactor output file and a run name, then to type "sbatch main.sh" to run in the Sherlock computing environment. 
+The user needs only to specify the compactor output file and a run name, then to type "sbatch main.sh" to run this code in the Sherlock computing environment. 
